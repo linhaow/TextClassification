@@ -1,0 +1,55 @@
+-------------information about train.csv set------------
+the row number of train.csv is 3993
+the label number of train.csv is
+0    2985
+1    1008
+Name: flag, dtype: int64
+
+-------------the describe of train.csv is ------------------ 
+              flag
+count  3993.000000
+mean      0.252442
+std       0.434468
+min       0.000000
+25%       0.000000
+50%       0.000000
+75%       1.000000
+max       1.000000
+
+--------------the info of train.csv data --------------- 
+
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 3993 entries, 0 to 3992
+Data columns (total 4 columns):
+id         3993 non-null object
+flag       3993 non-null int64
+title      3993 non-null object
+content    3984 non-null object
+dtypes: int64(1), object(3)
+memory usage: 124.9+ KB
+
+
+
+-------------information about test.csv set------------
+the row number of test.csv is 3993
+
+-------------the describe of test.csv is ------------------ 
+                                      id                 title content
+count                               3993                  3993    3988
+unique                              3993                  3888    3903
+top     ce3c126915494f4ca93a6f1cbd65283f  全新别克GL8符时下潮流 家用商务两不误      　　
+freq                                   1                     7      16
+
+--------------the info of test.csv data --------------- 
+
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 3993 entries, 0 to 3992
+Data columns (total 3 columns):
+id         3993 non-null object
+title      3993 non-null object
+content    3988 non-null object
+dtypes: object(3)
+memory usage: 93.7+ KB
+
+
+
