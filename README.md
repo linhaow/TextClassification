@@ -4,7 +4,7 @@
 
 比赛解题报告会在知乎和公众号上更新
 
-知乎：https://www.zhihu.com/people/lhw-55/activities
+知乎：https://www.zhihu.com/people/lhw-55
 
 公众号：纸鱼AI
 
