@@ -2,6 +2,13 @@
 
 本文件为文本分类任务
 
+比赛解题报告会在知乎和公众号上更新
+
+知乎：https://www.zhihu.com/people/lhw-55/activities
+
+公众号：纸鱼AI
+
+![Alt text]https://pic2.zhimg.com/80/v2-aa1e864f55284a12336b7132b91b0b9d_hd.jpg
 
 目前支持的功能如下：
 
@@ -81,4 +88,5 @@
     09/06/2019 21:03:41 - INFO - __main__ -     Num steps = 5000
 
 5. 最后输出文件会生成result.csv，模型会在对应的模型文件夹中生成，backup文件夹问自动保存对应的模型。
+
 
