@@ -8,7 +8,7 @@
 
 公众号：纸鱼AI
 
-![Alt text]https://pic2.zhimg.com/80/v2-aa1e864f55284a12336b7132b91b0b9d_hd.jpg
+![avatar](https://pic2.zhimg.com/80/v2-aa1e864f55284a12336b7132b91b0b9d_hd.jpg)
 
 目前支持的功能如下：
 
