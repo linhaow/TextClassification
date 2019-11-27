@@ -10,6 +10,8 @@
 
 ![avatar](https://pic2.zhimg.com/80/v2-aa1e864f55284a12336b7132b91b0b9d_hd.jpg)
 
+代码是基于郭大的开源代码修改的
+
 目前支持的功能如下：
 
 —— 训练数据集kfold处理
