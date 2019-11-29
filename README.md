@@ -2,9 +2,9 @@
 
 本文件为文本分类任务
 
-比赛解题报告会在知乎和公众号上更新
+比赛解题报告会在知乎和公众号上更新（题解报告已经更新）
 
-知乎：https://www.zhihu.com/people/lhw-55
+知乎：https://zhuanlan.zhihu.com/p/94281007
 
 公众号：纸鱼AI
 
